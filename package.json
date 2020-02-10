@@ -1,0 +1,17 @@
+{
+  "name": "nihal",
+  "version": "1.0.0",
+  "description": "simple app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "nihal",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^7.1.2"
+  },
+  "dependencies": {
+    "electron-packager": "^14.1.1"
+  }
+}
