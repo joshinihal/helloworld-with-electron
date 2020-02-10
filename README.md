@@ -1,2 +1,2 @@
 # helloworld-with-electron
-Creating a de3sktop app with Electronjs which says hello world
+Creating a desktop app with Electronjs which says hello world
